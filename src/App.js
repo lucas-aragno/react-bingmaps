@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactBingmaps from 'components/ReactBingmaps';
-import './App.css';
 
 class App extends Component {
   constructor(props) {
